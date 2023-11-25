@@ -58,7 +58,7 @@ var resume={
 },
 "languages":["English","Tamil"],
 "Area of Interest":"Becoming A full-time FUll-Stack Developer",
-"Schooling":"Completed ny 1 and 12th in same school HOLYINFANT JESUS MAT HR SEC SCHOOL"
+"Schooling":"Completed my 10 and 12th in same school HOLYINFANT JESUS MAT HR SEC SCHOOL"
 
 
 }
